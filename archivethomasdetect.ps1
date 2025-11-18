@@ -1,8 +1,9 @@
 Clear-Host
-Write-Host "Cheat" -ForegroundColor Red " Detetector" "| ArchiveThomas Mod Scanner" -ForegroundColor Blue
-Write-Host "Made by " -ForegroundColor Red -NoNewline
+Write-Host "Cheat Detector| ArchiveThomas Mod Scanner" -ForegroundColor Red
+Write-Host "Made by " -ForegroundColor White -NoNewline
 Write-Host "ArchiveThomas"
-Write-Host
+Write-Host "Please only use this detector if you know what you are doing!" -ForegroundColor red
+Write-Host "- ArchiveThomas"
 
 Write-Host "Enter path to the mods folder that you want to search: " -NoNewline
 Write-Host "(press Enter once pathway is entered)" -ForegroundColor DarkGray
